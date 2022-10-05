@@ -1,0 +1,15 @@
+{
+  "name": "exipure145902",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "exipure",
+    "exipure.com"
+  ],
+  "repository": "https://github.com/mooham7/yy.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
